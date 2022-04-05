@@ -1,0 +1,78 @@
+/* FOR LINKS */
+p a {
+    text-decoration: none;
+    color: gray;
+}
+
+p a:hover {
+    color: black;
+}
+
+p a:active {
+    color: gray;
+}
+
+/* CLUB CARDS */
+.club-cards {
+    display: flex;
+}
+
+.club-card {
+    width: 90%;
+    margin: auto;
+    margin: 0 20px;
+}
+
+
+.headings {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+
+
+/* SOCIAL LINKS  */
+
+.social-link {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    border-radius: 50%;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+    background: #ddd;
+    text-decoration: none;
+    color: #555;
+}
+
+
+
+
+
+a {
+    color: #000;
+}
+
+a:visited {
+    color: #000;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #000;
+}
+
+
+.cinemax-img {
+    height: 70vh;
+}

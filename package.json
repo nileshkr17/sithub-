@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.10",
+    "mdb-ui-kit": "^3.11.0"
+  }
+}

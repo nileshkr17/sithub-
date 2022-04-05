@@ -1,0 +1,10 @@
+.IMGTOP{
+    height: 25rem;
+    width:25rem;
+}
+.midhero,.card{
+    display: flex;
+}
+.clubcard{
+    display:flex;
+}
